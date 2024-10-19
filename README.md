@@ -215,7 +215,7 @@ $ npm run test
 
 ## API Documentation
 
-## [Postman API documentation](https://documenter.getpostman.com/view/15213147/2sA3JJAinf)
+## [Postman API documentation](https://documenter.getpostman.com/view/15213147/2sAXxWb9xc)
 
 ## License
 
